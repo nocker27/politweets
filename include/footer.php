@@ -27,7 +27,7 @@
 			  </address>
 		</div>
 		<div class="col-lg-4 col-md-4">
-		  <h3 class="text-center">NEWSLETTER</h3>
+		  <h3 class="text-center">NEWSLETTERs</h3>
         <form>
     		<div class="form-group col-lg-9 col-md-8 col-sm-10 col-xs-10">
 
