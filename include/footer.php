@@ -4,9 +4,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h1>Lorem ipsum dolor sit amet</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, magni, doloribus, possimus eum sapiente deleniti doloremque fugit ut expedita molestiae iusto debitis eveniet modi obcaecati ipsam quos quis labore dicta.</p>
-		<button type="button" class="btn btn-success">Get in touch</button>
+        <h3 class="text-center"></h3>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2244.3554142962016!2d12.510321530196409!3d55.76969883680508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7e3ab7668df86d7c!2sCphbusiness+Lyngby!5e0!3m2!1sen!2sdk!4v1510147363759" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -17,26 +16,22 @@
    	  <div class="row">
 		<div class="col-lg-4 col-md-4">
             <h3 class="text-center">WHO WE ARE</h3>
-            <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, ducimus, sit, quibusdam quidem recusandae veniam eos quod error nisi repellat excepturi laboriosam aspernatur suscipit possimus consectetur dolores nihil labore quas eius illo accusamus nulla sed blanditiis porro accusantium. Perspiciatis, perferendis!</h5>
+            <h5>We are a company, that can take on any task.</h5>
         </div>
 		<div class="col-lg-4 col-md-4">
-		  <h3 class="text-center">GET IN TOUCH</h3>
-          <address class="text-center">
-  <strong>MyCompany, Inc.</strong><br>
-  Sunny Autumn Plaza, Grand Coulee,<br>
-  CA, 91308-4075, US<br>
-  <abbr title="Phone">P:</abbr> (123) 456-7890
-</address>
-</div>
+			  <h3 class="text-center">GET IN TOUCH</h3>
+			  <address class="text-center">
+			  <strong><a href="http://busy.dk/">Busy.dk</strong></a><br>
+			  Nørgaardsvej 30, 2800 Kongens Lyngby,<br>
+			  <abbr title="Phone">P:</abbr> 36 15 45 04
+			  </address>
+		</div>
 		<div class="col-lg-4 col-md-4">
 		  <h3 class="text-center">NEWSLETTER</h3>
-          <form>
-    <div class="form-group col-lg-9 col-md-8 col-sm-10 col-xs-10">
-<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
-    </div>
-<button type="submit" class="btn btn-default">Subscribe<br>
-</button>
-</form>
+        <form>
+    		<div class="form-group col-lg-9 col-md-8 col-sm-10 col-xs-10">
+
+		</form>
 		</div>
 </div>
     </div>
@@ -45,7 +40,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <p>Copyright © MyCompany. All rights reserved.</p>
+        <p>Copyright <a href="http://busy.dk/">busy.dk.</a> All rights reserved.</p>
       </div>
     </div>
   </div>
